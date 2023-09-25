@@ -1,0 +1,57 @@
+[
+{
+    "name":"jacket",
+    "image":"img/pict1.svg",
+    "price": "$300",
+     "color": "Red",
+    "size": "Xl",
+     "quantity":"10"
+},
+{
+"name":"clothes for pregnant women",
+"image":"img/pict2.svg",
+"price":"$330",
+"color":"Blue",
+"size":"Xll",
+"quantity":"15"
+
+
+},
+{
+"name":"windbreaker",
+"image":"img/pict3.svg",
+"price":"$300",
+"color":"Blue",
+"size":"Xl",
+"quantity":"11"
+},
+{
+    "name":"shirt",
+    "image":"img/pict4.svg",
+    "price":"$310",
+    "color":"Green",
+    "size":"Xl",
+    "quantity":"12"
+},
+{
+    "name":"costume",
+    "image":"img/pict5.svg",
+    "price":"300",
+    "color":"Blue",
+    "size":"Xl",
+    "quantity":"10"
+},
+{
+"name":"costume",
+"image":"img/pict6.svg",
+"price":"$300",
+"color":"Grey",
+"size":"Xl",
+"quantity":"15"
+
+
+}
+
+
+
+]

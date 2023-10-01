@@ -1,0 +1,274 @@
+
+
+@media only screen and (min-device-width:320px) and(max-device-width:768px) {
+   
+    .index_hover{
+      display: flex;
+       margin: 1% 1% 1% 1%;
+        justify-content: center;
+       flex-wrap: wrap;
+       align-items: center;
+    }
+
+
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+	
+    .index_hover{
+        margin: 1% 1% 1% 1%;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+    }
+
+
+
+}
+
+
+
+.header{
+    display: flex; 
+    min-height: 50px;
+    height: 74px;
+   justify-content: space-between;
+
+}
+.logo{
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.button_copy{
+    margin-top: 1%;
+    margin-right: 2%;
+}
+.brand{
+display: flex;
+justify-content: center;
+opacity: 0.9;
+}
+.layer{
+width: 49%;
+margin-left: auto;
+height: 367.5px;
+min-height:340px ;
+}
+.brand_f{
+margin-top: 138px;
+height: 92px;
+min-height:85px;
+margin-right: auto;
+
+}
+.menu{
+display: flex;
+justify-content: center;
+opacity: 0;
+margin-right: auto;
+
+}
+.offer{
+    margin-top: 65px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+   justify-self: center;
+   align-self: center;
+   justify-content: center;
+max-width:1024px;
+}
+.accesories{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1024px;
+}
+.picture{
+display: flex;
+flex-wrap: wrap;
+margin-top: 72px;
+justify-content: center;
+justify-self: center;
+@media only screen and (min-device-width:320px) and(max-device-width:768px){
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+}
+.pict{
+    display: flex;
+    flex-wrap: wrap;
+width: 35%;
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    @media only screen and (min-device-width:320px) and(max-device-width:768px){
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
+       width: 100%;
+       display: flex;
+       flex-wrap: wrap;
+    }
+
+    
+}
+.butonn{
+    display: flex;
+    justify-content: center;
+    margin-top: 32.5px;
+}
+
+.signatures{
+display: flex;
+flex-wrap: wrap;
+background-color: #222224;
+justify-content: center;
+align-self: center;
+justify-self: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+width: 100%;
+}
+.photo{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+  max-width: 1024px; 
+  justify-content: center;
+  background: transparent url(img/photo_subs.svg);
+height: auto;
+}
+
+.subinfo{
+    width: 70%;
+    display: flex;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    justify-content: center;
+   opacity: 0.85;
+}
+.subs{
+    width: 70%;
+    display: flex;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    justify-content: center;
+}
+img.anim1:hover{
+    border: 2px solid #0000FF;
+    background:#800000 ;
+
+}
+.brand_f:hover{
+    background: #0000FF;
+}
+.brand_f:active{
+    background:#800080 ;
+}
+
+img.anim1:active{
+border: 2px solid black;
+background: white;
+}
+.menu:hover{
+    opacity: 1;
+}
+.menu:active{
+    opacity: 1;
+}
+.signatures:hover{
+    background:#808080
+}
+
+.subinfo:hover{
+    opacity: 1;
+}
+.subs:hover{
+    opacity: 1;
+}
+.brand:hover{opacity: 1;}
+
+.type1{
+    border-radius:10px;
+border: 4px;
+border-color: red;
+}
+.type2:hover{
+
+    border: 2px solid #0000FF;
+  background-color:white;
+  color: red;
+}
+.type2:active{
+    border: 2px solid #FF1493;
+background-color: aqua;
+color: #800000;
+}
+.type2{
+
+background-color:#F08080; 
+color: white;
+border-radius:0 10px 10px 0;
+
+}
+
+
+
+   
+.btn__del {
+
+  
+
+    height: 18px;
+    width: 18px;
+    font-size: 0;
+    border: none;
+    background: none;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(img/cross.svg);
+    cursor: pointer;
+    }
+    
+    .content {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 72px;
+        justify-content: center;
+        justify-self: center;
+    }
+    
+  
+    .button1{
+display: flex;
+width: 30%;
+align-self: center;
+    }
+
+
+    .pict1{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+
+    .ft{
+left: 150px;
+position: relative;
+    }
